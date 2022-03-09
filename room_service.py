@@ -10,3 +10,8 @@ guests = {'201':'Jay', '202':'Yeonjun','203':'Jimin'}
 starters = {'301':"tteokbokki", '302':'Gimbap', '303':'Kimchi'}
 maincourses = {'401':'Bibimbap','402':"Kimchi Stew", '403':'Army Stew'}
 desserts = {'501':'Songpyeon', '502':'Dasik', '503': 'Sikhye'} 
+
+#Guest name and room
+guest_name = None
+guest_room = None
+
